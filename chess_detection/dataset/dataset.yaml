@@ -1,0 +1,9 @@
+# train and val data
+train: ../MyDrive/chess_detection/dataset/images/train
+val: ../MyDrive/chess_detection/dataset/images/val
+
+# number of classes
+nc: 4
+
+# class names
+names: ['speed limit', 'yield', 'mandatory', 'other']
